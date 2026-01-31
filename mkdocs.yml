@@ -1,0 +1,17 @@
+site_name: qqqfish 的 个人网站
+site_url: https://qqqfiish.github.io/My_website/
+theme:
+  name: material
+  # 下面这两行是让导航栏变成“顶部标签页”风格，非常好看！
+  features:
+    - navigation.tabs
+
+# 下面是刚才加的菜单配置
+nav:
+  - 首页: index.md
+  - 随笔杂谈: 
+      - 自我: informal_essay/self.md
+  - 课内学习:
+      - 马原: college_usual_study/mayuan.md
+  - 个人学习:
+      - LaTeX: self_study/latex.md
