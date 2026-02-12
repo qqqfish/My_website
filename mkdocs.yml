@@ -13,5 +13,7 @@ nav:
       - 自我: informal_essay/self.md
   - 课内学习:
       - 马原: college_usual_study/mayuan.md
+      - 大物实验: college_usual_study/physicsexperiment/physics_exp.md
   - 个人学习:
       - LaTeX: self_study/latex.md
+
