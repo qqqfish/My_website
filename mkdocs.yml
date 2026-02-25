@@ -1,5 +1,5 @@
 site_name: qqqfish 的 个人网站
-site_url: https://qqqfiish.github.io/My_website/
+site_url: https://qqqfish.github.io/My_website/
 theme:
   name: material
   # 下面这两行是让导航栏变成“顶部标签页”风格，非常好看！
