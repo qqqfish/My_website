@@ -6,4 +6,7 @@
 [点击下载 PDF (denghou.pdf)](denghou.pdf)
 
 <!-- 下面使用绝对网址强制预览，解决 404 问题 -->
-<embed src="https://qqqfish.github.io/My_website/college_usual_study/physicsexperiment/denghou.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="https://qqqfish.github.io/My_website/college_usual_study/physicsexperiment/denghou.pdf" 
+
+type="application/pdf" width="100%" height="800px" />
+[📥 点击这里下载 Markdown 源码 (source.zip)](source.zip)
